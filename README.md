@@ -1,1 +1,3 @@
-# primertrabajox
+# ESTE ES NUESTRO PRIMER TRABAJO
+#1.- Diego 
+#2.- Aron
